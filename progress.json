@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T02:56:26.092Z",
+  "generated_at": "2026-09-24T02:56:28.378Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -91,6 +91,71 @@
       "last_pushed_at": "2026-07-19T14:45:39.756Z",
       "language": "python",
       "lines": 20
+    },
+    "problem:14": {
+      "kind": "problem",
+      "id": "14",
+      "title": "Linear Regression Using Normal Equation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/14",
+      "path": "problems/0014-linear-regression-using-normal-equation",
+      "first_solved_at": "2026-07-21T03:13:09.169Z",
+      "last_pushed_at": "2026-07-21T03:13:09.169Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:15": {
+      "kind": "problem",
+      "id": "15",
+      "title": "Linear Regression Using Gradient Descent",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/15",
+      "path": "problems/0015-linear-regression-using-gradient-descent",
+      "first_solved_at": "2026-07-21T04:05:49.441Z",
+      "last_pushed_at": "2026-07-21T04:05:49.441Z",
+      "language": "python",
+      "lines": 34
+    },
+    "problem:16": {
+      "kind": "problem",
+      "id": "16",
+      "title": "Feature Scaling Implementation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/16",
+      "path": "problems/0016-feature-scaling-implementation",
+      "first_solved_at": "2026-07-21T23:38:33.781Z",
+      "last_pushed_at": "2026-07-21T23:38:33.781Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:22": {
+      "kind": "problem",
+      "id": "22",
+      "title": "Sigmoid Activation Function Understanding",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/22",
+      "path": "problems/0022-sigmoid-activation-function-understanding",
+      "first_solved_at": "2026-07-21T23:43:15.682Z",
+      "last_pushed_at": "2026-07-21T23:43:15.682Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:23": {
+      "kind": "problem",
+      "id": "23",
+      "title": "Softmax Activation Function Implementation ",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/23",
+      "path": "problems/0023-softmax-activation-function-implementation",
+      "first_solved_at": "2026-07-21T23:52:19.254Z",
+      "last_pushed_at": "2026-07-21T23:52:19.254Z",
+      "language": "python",
+      "lines": 13
     }
   }
 }
