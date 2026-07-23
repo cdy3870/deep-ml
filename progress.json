@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T02:56:29.996Z",
+  "generated_at": "2026-09-24T02:56:32.053Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -169,6 +169,58 @@
       "last_pushed_at": "2026-07-22T04:01:24.958Z",
       "language": "python",
       "lines": 18
+    },
+    "problem:29": {
+      "kind": "problem",
+      "id": "29",
+      "title": "Random Shuffle of Dataset",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/29",
+      "path": "problems/0029-random-shuffle-of-dataset",
+      "first_solved_at": "2026-07-23T02:30:03.771Z",
+      "last_pushed_at": "2026-07-23T02:30:03.771Z",
+      "language": "python",
+      "lines": 28
+    },
+    "problem:30": {
+      "kind": "problem",
+      "id": "30",
+      "title": "Batch Iterator for Dataset",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/30",
+      "path": "problems/0030-batch-iterator-for-dataset",
+      "first_solved_at": "2026-07-23T02:49:08.381Z",
+      "last_pushed_at": "2026-07-23T02:49:08.381Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:34": {
+      "kind": "problem",
+      "id": "34",
+      "title": "One-Hot Encoding of Nominal Values",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/34",
+      "path": "problems/0034-one-hot-encoding-of-nominal-values",
+      "first_solved_at": "2026-07-23T02:59:58.992Z",
+      "last_pushed_at": "2026-07-23T02:59:58.992Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:36": {
+      "kind": "problem",
+      "id": "36",
+      "title": "Calculate Accuracy Score",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/36",
+      "path": "problems/0036-calculate-accuracy-score",
+      "first_solved_at": "2026-07-23T03:13:05.847Z",
+      "last_pushed_at": "2026-07-23T03:13:05.847Z",
+      "language": "python",
+      "lines": 10
     }
   }
 }
