@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T02:56:34.056Z",
+  "generated_at": "2026-09-24T02:56:36.143Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -312,6 +312,58 @@
       "last_pushed_at": "2026-07-25T16:56:13.987Z",
       "language": "python",
       "lines": 18
+    },
+    "problem:56": {
+      "kind": "problem",
+      "id": "56",
+      "title": "KL Divergence Between Two Normal Distributions",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/56",
+      "path": "problems/0056-kl-divergence-between-two-normal-distributions",
+      "first_solved_at": "2026-07-26T17:27:57.502Z",
+      "last_pushed_at": "2026-07-26T17:27:57.502Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:61": {
+      "kind": "problem",
+      "id": "61",
+      "title": "Implement F-Score Calculation for Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/61",
+      "path": "problems/0061-implement-f-score-calculation-for-binary-classification",
+      "first_solved_at": "2026-07-26T17:34:00.036Z",
+      "last_pushed_at": "2026-07-26T17:34:00.036Z",
+      "language": "python",
+      "lines": 24
+    },
+    "problem:64": {
+      "kind": "problem",
+      "id": "64",
+      "title": "Implement Gini Impurity Calculation for a Set of Classes",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/64",
+      "path": "problems/0064-implement-gini-impurity-calculation-for-a-set-of-classes",
+      "first_solved_at": "2026-07-26T17:43:14.388Z",
+      "last_pushed_at": "2026-07-26T17:43:14.388Z",
+      "language": "python",
+      "lines": 30
+    },
+    "problem:35": {
+      "kind": "problem",
+      "id": "35",
+      "title": "Convert Vector to Diagonal Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/35",
+      "path": "problems/0035-convert-vector-to-diagonal-matrix",
+      "first_solved_at": "2026-07-26T17:50:50.938Z",
+      "last_pushed_at": "2026-07-26T17:50:50.938Z",
+      "language": "python",
+      "lines": 5
     }
   }
 }
