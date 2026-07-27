@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T02:56:36.143Z",
+  "generated_at": "2026-09-24T02:56:38.020Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -364,6 +364,32 @@
       "last_pushed_at": "2026-07-26T17:50:50.938Z",
       "language": "python",
       "lines": 5
+    },
+    "problem:66": {
+      "kind": "problem",
+      "id": "66",
+      "title": "Implement Orthogonal Projection of a Vector onto a Line",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/66",
+      "path": "problems/0066-implement-orthogonal-projection-of-a-vector-onto-a-line",
+      "first_solved_at": "2026-07-27T21:40:45.633Z",
+      "last_pushed_at": "2026-07-27T21:40:45.633Z",
+      "language": "python",
+      "lines": 21
+    },
+    "problem:69": {
+      "kind": "problem",
+      "id": "69",
+      "title": "Calculate R-squared for Regression Analysis",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/69",
+      "path": "problems/0069-calculate-r-squared-for-regression-analysis",
+      "first_solved_at": "2026-07-27T21:49:56.293Z",
+      "last_pushed_at": "2026-07-27T21:49:56.293Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }
