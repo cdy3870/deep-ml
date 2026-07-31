@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T02:56:41.502Z",
+  "generated_at": "2026-09-24T02:56:43.474Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -416,6 +416,45 @@
       "last_pushed_at": "2026-07-30T03:17:31.731Z",
       "language": "python",
       "lines": 40
+    },
+    "problem:70": {
+      "kind": "problem",
+      "id": "70",
+      "title": "Calculate Image Brightness",
+      "difficulty": "easy",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/70",
+      "path": "problems/0070-calculate-image-brightness",
+      "first_solved_at": "2026-07-31T02:15:52.958Z",
+      "last_pushed_at": "2026-07-31T02:15:52.958Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:71": {
+      "kind": "problem",
+      "id": "71",
+      "title": "Calculate Root Mean Square Error (RMSE)",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/71",
+      "path": "problems/0071-calculate-root-mean-square-error-rmse",
+      "first_solved_at": "2026-07-31T02:18:35.128Z",
+      "last_pushed_at": "2026-07-31T02:18:35.128Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:72": {
+      "kind": "problem",
+      "id": "72",
+      "title": "Calculate Jaccard Index for Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/72",
+      "path": "problems/0072-calculate-jaccard-index-for-binary-classification",
+      "first_solved_at": "2026-07-31T02:28:19.864Z",
+      "last_pushed_at": "2026-07-31T02:28:19.864Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }
