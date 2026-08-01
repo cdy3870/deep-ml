@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**35** solved · 35 problems · 0 labs · 0 math
+**43** solved · 43 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -15,14 +15,20 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Batch Iterator for Dataset](https://www.deep-ml.com/problems/30) | easy | 2026-07-23 | [solution](problems/0030-batch-iterator-for-dataset) |
 | [Calculate 2x2 Matrix Inverse](https://www.deep-ml.com/problems/8) | easy | 2026-07-19 | [solution](problems/0008-calculate-2x2-matrix-inverse) |
 | [Calculate Accuracy Score](https://www.deep-ml.com/problems/36) | easy | 2026-07-23 | [solution](problems/0036-calculate-accuracy-score) |
+| [Calculate Cosine Similarity Between Vectors](https://www.deep-ml.com/problems/76) | easy | 2026-08-01 | [solution](problems/0076-calculate-cosine-similarity-between-vectors) |
 | [Calculate Covariance Matrix](https://www.deep-ml.com/problems/10) | easy | 2026-07-19 | [solution](problems/0010-calculate-covariance-matrix) |
+| [Calculate Dice Score for Classification](https://www.deep-ml.com/problems/73) | easy | 2026-08-01 | [solution](problems/0073-calculate-dice-score-for-classification) |
 | [Calculate Image Brightness](https://www.deep-ml.com/problems/70) | easy | 2026-07-31 | [solution](problems/0070-calculate-image-brightness) |
 | [Calculate Jaccard Index for Binary Classification](https://www.deep-ml.com/problems/72) | easy | 2026-07-31 | [solution](problems/0072-calculate-jaccard-index-for-binary-classification) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-07-19 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Calculate R-squared for Regression Analysis](https://www.deep-ml.com/problems/69) | easy | 2026-07-27 | [solution](problems/0069-calculate-r-squared-for-regression-analysis) |
 | [Calculate Root Mean Square Error (RMSE)](https://www.deep-ml.com/problems/71) | easy | 2026-07-31 | [solution](problems/0071-calculate-root-mean-square-error-rmse) |
 | [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2026-07-26 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
+| [Detect Overfitting or Underfitting](https://www.deep-ml.com/problems/86) | easy | 2026-08-01 | [solution](problems/0086-detect-overfitting-or-underfitting) |
+| [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-08-01 | [solution](problems/0083-dot-product-calculator) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-07-21 | [solution](problems/0016-feature-scaling-implementation) |
+| [Generate a Confusion Matrix for Binary Classification](https://www.deep-ml.com/problems/75) | easy | 2026-08-01 | [solution](problems/0075-generate-a-confusion-matrix-for-binary-classification) |
+| [Grayscale Image Contrast Calculator](https://www.deep-ml.com/problems/82) | easy | 2026-08-01 | [solution](problems/0082-grayscale-image-contrast-calculator) |
 | [Implement F-Score Calculation for Binary Classification](https://www.deep-ml.com/problems/61) | easy | 2026-07-26 | [solution](problems/0061-implement-f-score-calculation-for-binary-classification) |
 | [Implement Gini Impurity Calculation for a Set of Classes](https://www.deep-ml.com/problems/64) | easy | 2026-07-26 | [solution](problems/0064-implement-gini-impurity-calculation-for-a-set-of-classes) |
 | [Implement Orthogonal Projection of a Vector onto a Line](https://www.deep-ml.com/problems/66) | easy | 2026-07-27 | [solution](problems/0066-implement-orthogonal-projection-of-a-vector-onto-a-line) |
@@ -38,6 +44,8 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-07-21 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-07-19 | [solution](problems/0001-matrix-vector-dot-product) |
 | [One-Hot Encoding of Nominal Values](https://www.deep-ml.com/problems/34) | easy | 2026-07-23 | [solution](problems/0034-one-hot-encoding-of-nominal-values) |
+| [Phi Transformation for Polynomial Features](https://www.deep-ml.com/problems/84) | easy | 2026-08-01 | [solution](problems/0084-phi-transformation-for-polynomial-features) |
+| [Poisson Distribution Probability Calculator](https://www.deep-ml.com/problems/81) | easy | 2026-08-01 | [solution](problems/0081-poisson-distribution-probability-calculator) |
 | [Random Shuffle of Dataset](https://www.deep-ml.com/problems/29) | easy | 2026-07-23 | [solution](problems/0029-random-shuffle-of-dataset) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-07-19 | [solution](problems/0003-reshape-matrix) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-07-19 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T02:56:43.474Z",
+  "generated_at": "2026-09-24T02:56:45.344Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -455,6 +455,110 @@
       "last_pushed_at": "2026-07-31T02:28:19.864Z",
       "language": "python",
       "lines": 14
+    },
+    "problem:73": {
+      "kind": "problem",
+      "id": "73",
+      "title": "Calculate Dice Score for Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/73",
+      "path": "problems/0073-calculate-dice-score-for-classification",
+      "first_solved_at": "2026-08-01T02:43:36.609Z",
+      "last_pushed_at": "2026-08-01T02:43:36.609Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:75": {
+      "kind": "problem",
+      "id": "75",
+      "title": "Generate a Confusion Matrix for Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/75",
+      "path": "problems/0075-generate-a-confusion-matrix-for-binary-classification",
+      "first_solved_at": "2026-08-01T02:53:21.792Z",
+      "last_pushed_at": "2026-08-01T02:53:21.792Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:76": {
+      "kind": "problem",
+      "id": "76",
+      "title": "Calculate Cosine Similarity Between Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/76",
+      "path": "problems/0076-calculate-cosine-similarity-between-vectors",
+      "first_solved_at": "2026-08-01T02:58:02.395Z",
+      "last_pushed_at": "2026-08-01T02:58:02.395Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:86": {
+      "kind": "problem",
+      "id": "86",
+      "title": "Detect Overfitting or Underfitting",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/86",
+      "path": "problems/0086-detect-overfitting-or-underfitting",
+      "first_solved_at": "2026-08-01T13:39:44.174Z",
+      "last_pushed_at": "2026-08-01T13:39:44.174Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:83": {
+      "kind": "problem",
+      "id": "83",
+      "title": "Dot Product Calculator",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/83",
+      "path": "problems/0083-dot-product-calculator",
+      "first_solved_at": "2026-08-01T13:40:08.390Z",
+      "last_pushed_at": "2026-08-01T13:40:08.390Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:84": {
+      "kind": "problem",
+      "id": "84",
+      "title": "Phi Transformation for Polynomial Features",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/84",
+      "path": "problems/0084-phi-transformation-for-polynomial-features",
+      "first_solved_at": "2026-08-01T13:42:24.246Z",
+      "last_pushed_at": "2026-08-01T13:42:24.246Z",
+      "language": "python",
+      "lines": 23
+    },
+    "problem:81": {
+      "kind": "problem",
+      "id": "81",
+      "title": "Poisson Distribution Probability Calculator",
+      "difficulty": "easy",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/81",
+      "path": "problems/0081-poisson-distribution-probability-calculator",
+      "first_solved_at": "2026-08-01T13:54:20.912Z",
+      "last_pushed_at": "2026-08-01T13:54:20.912Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:82": {
+      "kind": "problem",
+      "id": "82",
+      "title": "Grayscale Image Contrast Calculator",
+      "difficulty": "easy",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/82",
+      "path": "problems/0082-grayscale-image-contrast-calculator",
+      "first_solved_at": "2026-08-01T13:55:02.100Z",
+      "last_pushed_at": "2026-08-01T13:55:02.100Z",
+      "language": "python",
+      "lines": 10
     }
   }
 }
