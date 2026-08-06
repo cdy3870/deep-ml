@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T02:56:51.201Z",
+  "generated_at": "2026-09-24T02:56:53.137Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -611,6 +611,32 @@
       "last_pushed_at": "2026-08-05T03:46:15.337Z",
       "language": "python",
       "lines": 19
+    },
+    "problem:97": {
+      "kind": "problem",
+      "id": "97",
+      "title": "Implement the ELU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/97",
+      "path": "problems/0097-implement-the-elu-activation-function",
+      "first_solved_at": "2026-08-06T19:33:12.235Z",
+      "last_pushed_at": "2026-08-06T19:33:12.235Z",
+      "language": "python",
+      "lines": 24
+    },
+    "problem:104": {
+      "kind": "problem",
+      "id": "104",
+      "title": "Binary Classification with Logistic Regression",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/104",
+      "path": "problems/0104-binary-classification-with-logistic-regression",
+      "first_solved_at": "2026-08-06T19:38:01.006Z",
+      "last_pushed_at": "2026-08-06T19:38:01.006Z",
+      "language": "python",
+      "lines": 23
     }
   }
 }
