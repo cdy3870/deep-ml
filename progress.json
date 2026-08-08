@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T02:56:55.050Z",
+  "generated_at": "2026-09-24T02:56:56.628Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -650,6 +650,32 @@
       "last_pushed_at": "2026-08-07T15:49:00.740Z",
       "language": "python",
       "lines": 19
+    },
+    "problem:146": {
+      "kind": "problem",
+      "id": "146",
+      "title": "Momentum Optimizer",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/146",
+      "path": "problems/0146-momentum-optimizer",
+      "first_solved_at": "2026-08-08T03:37:22.387Z",
+      "last_pushed_at": "2026-08-08T03:37:22.387Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:6": {
+      "kind": "problem",
+      "id": "6",
+      "title": "Calculate Eigenvalues of a Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/6",
+      "path": "problems/0006-calculate-eigenvalues-of-a-matrix",
+      "first_solved_at": "2026-08-08T16:37:20.518Z",
+      "last_pushed_at": "2026-08-08T16:37:20.518Z",
+      "language": "python",
+      "lines": 11
     }
   }
 }
