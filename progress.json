@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T02:56:56.628Z",
+  "generated_at": "2026-09-24T02:56:58.426Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -676,6 +676,58 @@
       "last_pushed_at": "2026-08-08T16:37:20.518Z",
       "language": "python",
       "lines": 11
+    },
+    "problem:99": {
+      "kind": "problem",
+      "id": "99",
+      "title": "Implement the Softplus Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/99",
+      "path": "problems/0099-implement-the-softplus-activation-function",
+      "first_solved_at": "2026-08-21T03:23:44.520Z",
+      "last_pushed_at": "2026-08-21T03:23:44.520Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:118": {
+      "kind": "problem",
+      "id": "118",
+      "title": "Compute the Cross Product of Two 3D Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/118",
+      "path": "problems/0118-compute-the-cross-product-of-two-3d-vectors",
+      "first_solved_at": "2026-08-21T22:21:31.157Z",
+      "last_pushed_at": "2026-08-21T22:21:31.157Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:121": {
+      "kind": "problem",
+      "id": "121",
+      "title": "Vector Element-wise Sum",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/121",
+      "path": "problems/0121-vector-element-wise-sum",
+      "first_solved_at": "2026-08-21T22:23:01.985Z",
+      "last_pushed_at": "2026-08-21T22:23:01.985Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:123": {
+      "kind": "problem",
+      "id": "123",
+      "title": "Calculate Computational Efficiency of MoE",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/123",
+      "path": "problems/0123-calculate-computational-efficiency-of-moe",
+      "first_solved_at": "2026-08-21T22:25:51.766Z",
+      "last_pushed_at": "2026-08-21T22:25:51.766Z",
+      "language": "python",
+      "lines": 16
     }
   }
 }
