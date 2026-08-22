@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T17:11:17.923Z",
+  "generated_at": "2026-10-18T14:52:21.944Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -871,6 +871,45 @@
       "path": "math/0062-bytes-in-the-kv-cache-mha-gqa-mqa-mla",
       "first_solved_at": "2026-10-10T17:11:17.064Z",
       "last_pushed_at": "2026-10-10T17:11:17.064Z"
+    },
+    "problem:134": {
+      "kind": "problem",
+      "id": "134",
+      "title": "Compute Multi-class Cross-Entropy Loss",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/134",
+      "path": "problems/0134-compute-multi-class-cross-entropy-loss",
+      "first_solved_at": "2026-08-22T16:57:58.591Z",
+      "last_pushed_at": "2026-08-22T16:57:58.591Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:153": {
+      "kind": "problem",
+      "id": "153",
+      "title": "StepLR Learning Rate Scheduler",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/153",
+      "path": "problems/0153-steplr-learning-rate-scheduler",
+      "first_solved_at": "2026-08-22T18:06:52.194Z",
+      "last_pushed_at": "2026-08-22T18:06:52.194Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:87": {
+      "kind": "problem",
+      "id": "87",
+      "title": "Adam Optimizer",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/87",
+      "path": "problems/0087-adam-optimizer",
+      "first_solved_at": "2026-08-22T20:45:41.619Z",
+      "last_pushed_at": "2026-08-22T20:45:41.619Z",
+      "language": "python",
+      "lines": 27
     }
   }
 }
