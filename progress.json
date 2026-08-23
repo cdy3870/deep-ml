@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T14:52:21.944Z",
+  "generated_at": "2026-10-18T14:52:24.042Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -910,6 +910,32 @@
       "last_pushed_at": "2026-08-22T20:45:41.619Z",
       "language": "python",
       "lines": 27
+    },
+    "problem:79": {
+      "kind": "problem",
+      "id": "79",
+      "title": "Binomial Distribution Probability",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/79",
+      "path": "problems/0079-binomial-distribution-probability",
+      "first_solved_at": "2026-08-23T16:19:29.450Z",
+      "last_pushed_at": "2026-08-23T16:19:29.450Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:115": {
+      "kind": "problem",
+      "id": "115",
+      "title": "Implement Batch Normalization for BCHW Input",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/115",
+      "path": "problems/0115-implement-batch-normalization-for-bchw-input",
+      "first_solved_at": "2026-08-23T17:49:52.894Z",
+      "last_pushed_at": "2026-08-23T17:49:52.894Z",
+      "language": "python",
+      "lines": 23
     }
   }
 }
