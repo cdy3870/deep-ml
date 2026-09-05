@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T14:52:24.042Z",
+  "generated_at": "2026-10-18T14:52:25.709Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -936,6 +936,32 @@
       "last_pushed_at": "2026-08-23T17:49:52.894Z",
       "language": "python",
       "lines": 23
+    },
+    "problem:179": {
+      "kind": "problem",
+      "id": "179",
+      "title": "Expected Value and Variance of an n-Sided Die",
+      "difficulty": "easy",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/179",
+      "path": "problems/0179-expected-value-and-variance-of-an-n-sided-die",
+      "first_solved_at": "2026-09-05T12:27:07.517Z",
+      "last_pushed_at": "2026-09-05T12:27:07.517Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:156": {
+      "kind": "problem",
+      "id": "156",
+      "title": "Implement SwiGLU activation function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/156",
+      "path": "problems/0156-implement-swiglu-activation-function",
+      "first_solved_at": "2026-09-05T12:38:21.609Z",
+      "last_pushed_at": "2026-09-05T12:38:21.609Z",
+      "language": "python",
+      "lines": 19
     }
   }
 }
