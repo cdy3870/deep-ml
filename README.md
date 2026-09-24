@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**56** solved · 56 problems · 0 labs · 0 math
+**57** solved · 56 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -68,6 +68,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2026-07-30 | [solution](problems/0018-implement-k-fold-cross-validation) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-07-28 | [solution](problems/0017-k-means-clustering) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-08-02 | [solution](problems/0007-matrix-transformation) |
+
+## Math
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Why Minibatches: Gradient Variance vs Batch Size](https://www.deep-ml.com/math-problems/130) | easy | 2026-09-24 | [solution](math/0130-why-minibatches-gradient-variance-vs-batch-size) |
 
 ---
 
