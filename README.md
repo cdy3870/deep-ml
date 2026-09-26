@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**59** solved · 56 problems · 0 labs · 3 math
+**60** solved · 56 problems · 0 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -75,6 +75,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Attention as a Soft Dictionary Lookup](https://www.deep-ml.com/math-problems/133) | easy | 2026-09-25 | [solution](math/0133-attention-as-a-soft-dictionary-lookup) |
 | [Why Minibatches: Gradient Variance vs Batch Size](https://www.deep-ml.com/math-problems/130) | easy | 2026-09-24 | [solution](math/0130-why-minibatches-gradient-variance-vs-batch-size) |
+| [Speculative Decoding: Expected Accepted Tokens and Speedup](https://www.deep-ml.com/math-problems/168) | medium | 2026-09-26 | [solution](math/0168-speculative-decoding-expected-accepted-tokens-and-speedup) |
 | [The GPU Memory Hierarchy and the Decode Latency Floor](https://www.deep-ml.com/math-problems/172) | medium | 2026-09-25 | [solution](math/0172-the-gpu-memory-hierarchy-and-the-decode-latency-floor) |
 
 ---
