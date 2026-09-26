@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**60** solved · 56 problems · 0 labs · 4 math
+**61** solved · 56 problems · 0 labs · 5 math
 
 ![Coverage](./coverage.svg)
 
@@ -76,6 +76,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Attention as a Soft Dictionary Lookup](https://www.deep-ml.com/math-problems/133) | easy | 2026-09-25 | [solution](math/0133-attention-as-a-soft-dictionary-lookup) |
 | [Why Minibatches: Gradient Variance vs Batch Size](https://www.deep-ml.com/math-problems/130) | easy | 2026-09-24 | [solution](math/0130-why-minibatches-gradient-variance-vs-batch-size) |
 | [Speculative Decoding: Expected Accepted Tokens and Speedup](https://www.deep-ml.com/math-problems/168) | medium | 2026-09-26 | [solution](math/0168-speculative-decoding-expected-accepted-tokens-and-speedup) |
+| [Tensor Parallelism: Communication per Layer and When It Pays](https://www.deep-ml.com/math-problems/167) | medium | 2026-09-26 | [solution](math/0167-tensor-parallelism-communication-per-layer-and-when-it-pays) |
 | [The GPU Memory Hierarchy and the Decode Latency Floor](https://www.deep-ml.com/math-problems/172) | medium | 2026-09-25 | [solution](math/0172-the-gpu-memory-hierarchy-and-the-decode-latency-floor) |
 
 ---
