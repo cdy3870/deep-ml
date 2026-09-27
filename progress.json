@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T15:56:53.187Z",
+  "generated_at": "2026-09-27T21:38:31.667Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -783,6 +783,17 @@
       "path": "math/0167-tensor-parallelism-communication-per-layer-and-when-it-pays",
       "first_solved_at": "2026-09-26T15:56:52.448Z",
       "last_pushed_at": "2026-09-26T15:56:52.448Z"
+    },
+    "math:69": {
+      "kind": "math",
+      "id": "69",
+      "title": "Quantized KV: Scale, Zero-Point, and Extra Bytes",
+      "difficulty": "medium",
+      "category": "Inference Engineering",
+      "url": "https://www.deep-ml.com/math-problems/69",
+      "path": "math/0069-quantized-kv-scale-zero-point-and-extra-bytes",
+      "first_solved_at": "2026-09-27T21:38:30.940Z",
+      "last_pushed_at": "2026-09-27T21:38:30.940Z"
     }
   }
 }
