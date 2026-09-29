@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T21:38:31.667Z",
+  "generated_at": "2026-09-29T03:11:15.483Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -794,6 +794,17 @@
       "path": "math/0069-quantized-kv-scale-zero-point-and-extra-bytes",
       "first_solved_at": "2026-09-27T21:38:30.940Z",
       "last_pushed_at": "2026-09-27T21:38:30.940Z"
+    },
+    "math:173": {
+      "kind": "math",
+      "id": "173",
+      "title": "Kernel Fusion Arithmetic: Bytes Saved and Launches Avoided",
+      "difficulty": "medium",
+      "category": "Inference Engineering",
+      "url": "https://www.deep-ml.com/math-problems/173",
+      "path": "math/0173-kernel-fusion-arithmetic-bytes-saved-and-launches-avoided",
+      "first_solved_at": "2026-09-29T03:11:14.490Z",
+      "last_pushed_at": "2026-09-29T03:11:14.490Z"
     }
   }
 }
