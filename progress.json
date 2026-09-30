@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T04:00:37.500Z",
+  "generated_at": "2026-09-30T04:19:27.439Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -816,6 +816,17 @@
       "path": "math/0068-prefix-cache-hit-rate-and-ttft",
       "first_solved_at": "2026-09-30T04:00:36.862Z",
       "last_pushed_at": "2026-09-30T04:00:36.862Z"
+    },
+    "math:67": {
+      "kind": "math",
+      "id": "67",
+      "title": "PagedAttention Internal Fragmentation",
+      "difficulty": "easy",
+      "category": "Inference Engineering",
+      "url": "https://www.deep-ml.com/math-problems/67",
+      "path": "math/0067-pagedattention-internal-fragmentation",
+      "first_solved_at": "2026-09-30T04:19:24.781Z",
+      "last_pushed_at": "2026-09-30T04:19:24.781Z"
     }
   }
 }
