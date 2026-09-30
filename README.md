@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**63** solved · 56 problems · 0 labs · 7 math
+**64** solved · 56 problems · 0 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -74,6 +74,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Attention as a Soft Dictionary Lookup](https://www.deep-ml.com/math-problems/133) | easy | 2026-09-25 | [solution](math/0133-attention-as-a-soft-dictionary-lookup) |
+| [Prefix-Cache Hit Rate and TTFT](https://www.deep-ml.com/math-problems/68) | easy | 2026-09-30 | [solution](math/0068-prefix-cache-hit-rate-and-ttft) |
 | [Why Minibatches: Gradient Variance vs Batch Size](https://www.deep-ml.com/math-problems/130) | easy | 2026-09-24 | [solution](math/0130-why-minibatches-gradient-variance-vs-batch-size) |
 | [Kernel Fusion Arithmetic: Bytes Saved and Launches Avoided](https://www.deep-ml.com/math-problems/173) | medium | 2026-09-29 | [solution](math/0173-kernel-fusion-arithmetic-bytes-saved-and-launches-avoided) |
 | [Quantized KV: Scale, Zero-Point, and Extra Bytes](https://www.deep-ml.com/math-problems/69) | medium | 2026-09-27 | [solution](math/0069-quantized-kv-scale-zero-point-and-extra-bytes) |
