@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**65** solved · 56 problems · 0 labs · 9 math
+**66** solved · 56 problems · 0 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -80,6 +80,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Kernel Fusion Arithmetic: Bytes Saved and Launches Avoided](https://www.deep-ml.com/math-problems/173) | medium | 2026-09-29 | [solution](math/0173-kernel-fusion-arithmetic-bytes-saved-and-launches-avoided) |
 | [Quantized KV: Scale, Zero-Point, and Extra Bytes](https://www.deep-ml.com/math-problems/69) | medium | 2026-09-27 | [solution](math/0069-quantized-kv-scale-zero-point-and-extra-bytes) |
 | [Speculative Decoding: Expected Accepted Tokens and Speedup](https://www.deep-ml.com/math-problems/168) | medium | 2026-09-26 | [solution](math/0168-speculative-decoding-expected-accepted-tokens-and-speedup) |
+| [Speculative Speedup as a Geometric Series](https://www.deep-ml.com/math-problems/65) | medium | 2026-10-01 | [solution](math/0065-speculative-speedup-as-a-geometric-series) |
 | [Tensor Parallelism: Communication per Layer and When It Pays](https://www.deep-ml.com/math-problems/167) | medium | 2026-09-26 | [solution](math/0167-tensor-parallelism-communication-per-layer-and-when-it-pays) |
 | [The GPU Memory Hierarchy and the Decode Latency Floor](https://www.deep-ml.com/math-problems/172) | medium | 2026-09-25 | [solution](math/0172-the-gpu-memory-hierarchy-and-the-decode-latency-floor) |
 

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T04:19:27.439Z",
+  "generated_at": "2026-10-01T22:43:59.207Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -827,6 +827,17 @@
       "path": "math/0067-pagedattention-internal-fragmentation",
       "first_solved_at": "2026-09-30T04:19:24.781Z",
       "last_pushed_at": "2026-09-30T04:19:24.781Z"
+    },
+    "math:65": {
+      "kind": "math",
+      "id": "65",
+      "title": "Speculative Speedup as a Geometric Series",
+      "difficulty": "medium",
+      "category": "Inference Engineering",
+      "url": "https://www.deep-ml.com/math-problems/65",
+      "path": "math/0065-speculative-speedup-as-a-geometric-series",
+      "first_solved_at": "2026-10-01T22:43:58.556Z",
+      "last_pushed_at": "2026-10-01T22:43:58.556Z"
     }
   }
 }
