@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T22:43:59.207Z",
+  "generated_at": "2026-10-04T16:24:17.361Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -838,6 +838,17 @@
       "path": "math/0065-speculative-speedup-as-a-geometric-series",
       "first_solved_at": "2026-10-01T22:43:58.556Z",
       "last_pushed_at": "2026-10-01T22:43:58.556Z"
+    },
+    "math:45": {
+      "kind": "math",
+      "id": "45",
+      "title": "Uniform Quantization: Scale and Zero-Point",
+      "difficulty": "medium",
+      "category": "Quantization",
+      "url": "https://www.deep-ml.com/math-problems/45",
+      "path": "math/0045-uniform-quantization-scale-and-zero-point",
+      "first_solved_at": "2026-10-04T16:24:16.083Z",
+      "last_pushed_at": "2026-10-04T16:24:16.083Z"
     }
   }
 }

@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**66** solved · 56 problems · 0 labs · 10 math
+**67** solved · 56 problems · 0 labs · 11 math
 
 ![Coverage](./coverage.svg)
 
@@ -83,6 +83,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Speculative Speedup as a Geometric Series](https://www.deep-ml.com/math-problems/65) | medium | 2026-10-01 | [solution](math/0065-speculative-speedup-as-a-geometric-series) |
 | [Tensor Parallelism: Communication per Layer and When It Pays](https://www.deep-ml.com/math-problems/167) | medium | 2026-09-26 | [solution](math/0167-tensor-parallelism-communication-per-layer-and-when-it-pays) |
 | [The GPU Memory Hierarchy and the Decode Latency Floor](https://www.deep-ml.com/math-problems/172) | medium | 2026-09-25 | [solution](math/0172-the-gpu-memory-hierarchy-and-the-decode-latency-floor) |
+| [Uniform Quantization: Scale and Zero-Point](https://www.deep-ml.com/math-problems/45) | medium | 2026-10-04 | [solution](math/0045-uniform-quantization-scale-and-zero-point) |
 
 ---
 
