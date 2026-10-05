@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T14:52:37.526Z",
+  "generated_at": "2026-10-18T14:52:39.096Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1064,6 +1064,19 @@
       "path": "math/0001-derivatives-and-gradients",
       "first_solved_at": "2026-09-24T02:55:36.371Z",
       "last_pushed_at": "2026-09-24T02:55:36.371Z"
+    },
+    "problem:1128": {
+      "kind": "problem",
+      "id": "1128",
+      "title": "Handle Missing Data in pandas (dropna/fillna)",
+      "difficulty": "easy",
+      "category": "Pandas",
+      "url": "https://www.deep-ml.com/problems/1128",
+      "path": "problems/1128-handle-missing-data-in-pandas-dropna-fillna",
+      "first_solved_at": "2026-10-05T15:11:42.726Z",
+      "last_pushed_at": "2026-10-05T15:11:42.726Z",
+      "language": "python",
+      "lines": 19
     }
   }
 }
