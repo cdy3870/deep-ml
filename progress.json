@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T14:52:39.096Z",
+  "generated_at": "2026-10-18T14:52:40.577Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1077,6 +1077,45 @@
       "last_pushed_at": "2026-10-05T15:11:42.726Z",
       "language": "python",
       "lines": 19
+    },
+    "problem:418": {
+      "kind": "problem",
+      "id": "418",
+      "title": "Estimate KV Cache Size from Model Config",
+      "difficulty": "medium",
+      "category": "Inference",
+      "url": "https://www.deep-ml.com/problems/418",
+      "path": "problems/0418-estimate-kv-cache-size-from-model-config",
+      "first_solved_at": "2026-10-09T02:42:07.032Z",
+      "last_pushed_at": "2026-10-09T02:42:07.032Z",
+      "language": "python",
+      "lines": 36
+    },
+    "problem:1012": {
+      "kind": "problem",
+      "id": "1012",
+      "title": "KV Cache Size Estimator for MLA vs MHA vs GQA",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1012",
+      "path": "problems/1012-kv-cache-size-estimator-for-mla-vs-mha-vs-gqa",
+      "first_solved_at": "2026-10-09T16:20:18.860Z",
+      "last_pushed_at": "2026-10-09T16:20:18.860Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:411": {
+      "kind": "problem",
+      "id": "411",
+      "title": "Compute TTFT ITL and TPS from a Token Timestamp Stream",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/411",
+      "path": "problems/0411-compute-ttft-itl-and-tps-from-a-token-timestamp-stream",
+      "first_solved_at": "2026-10-09T16:53:51.096Z",
+      "last_pushed_at": "2026-10-09T16:53:51.096Z",
+      "language": "python",
+      "lines": 24
     }
   }
 }
