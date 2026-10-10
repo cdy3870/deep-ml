@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T14:52:40.577Z",
+  "generated_at": "2026-10-18T14:52:42.257Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1116,6 +1116,32 @@
       "last_pushed_at": "2026-10-09T16:53:51.096Z",
       "language": "python",
       "lines": 24
+    },
+    "problem:413": {
+      "kind": "problem",
+      "id": "413",
+      "title": "End-to-End Latency Decomposition",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/413",
+      "path": "problems/0413-end-to-end-latency-decomposition",
+      "first_solved_at": "2026-10-10T16:51:06.292Z",
+      "last_pushed_at": "2026-10-10T16:51:06.292Z",
+      "language": "python",
+      "lines": 64
+    },
+    "problem:425": {
+      "kind": "problem",
+      "id": "425",
+      "title": "Continuous Batching (In-Flight Batching) Simulator",
+      "difficulty": "medium",
+      "category": "Inference",
+      "url": "https://www.deep-ml.com/problems/425",
+      "path": "problems/0425-continuous-batching-in-flight-batching-simulator",
+      "first_solved_at": "2026-10-10T22:02:26.451Z",
+      "last_pushed_at": "2026-10-10T22:02:26.451Z",
+      "language": "python",
+      "lines": 78
     }
   }
 }
