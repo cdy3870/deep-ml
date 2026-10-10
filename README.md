@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**68** solved · 56 problems · 0 labs · 12 math
+**69** solved · 56 problems · 0 labs · 13 math
 
 ![Coverage](./coverage.svg)
 
@@ -74,6 +74,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Attention as a Soft Dictionary Lookup](https://www.deep-ml.com/math-problems/133) | easy | 2026-09-25 | [solution](math/0133-attention-as-a-soft-dictionary-lookup) |
+| [Bytes in the KV Cache (MHA, GQA, MQA, MLA)](https://www.deep-ml.com/math-problems/62) | easy | 2026-10-10 | [solution](math/0062-bytes-in-the-kv-cache-mha-gqa-mqa-mla) |
 | [PagedAttention Internal Fragmentation](https://www.deep-ml.com/math-problems/67) | easy | 2026-09-30 | [solution](math/0067-pagedattention-internal-fragmentation) |
 | [Prefix-Cache Hit Rate and TTFT](https://www.deep-ml.com/math-problems/68) | easy | 2026-09-30 | [solution](math/0068-prefix-cache-hit-rate-and-ttft) |
 | [Tokens at Matched Accuracy](https://www.deep-ml.com/math-problems/143) | easy | 2026-10-08 | [solution](math/0143-tokens-at-matched-accuracy) |
