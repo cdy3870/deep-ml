@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**92** solved · 78 problems · 0 labs · 14 math
+**93** solved · 79 problems · 0 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -90,6 +90,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-08-02 | [solution](problems/0007-matrix-transformation) |
 | [Simulate Markov Chain Transitions](https://www.deep-ml.com/problems/132) | medium | 2026-09-13 | [solution](problems/0132-simulate-markov-chain-transitions) |
 | [Temperature Sampling](https://www.deep-ml.com/problems/378) | medium | 2026-10-12 | [solution](problems/0378-temperature-sampling) |
+| [Top-p (Nucleus) Sampling](https://www.deep-ml.com/problems/383) | medium | 2026-10-13 | [solution](problems/0383-top-p-nucleus-sampling) |
 
 ## Math
 
