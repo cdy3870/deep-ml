@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**94** solved · 80 problems · 0 labs · 14 math
+**95** solved · 81 problems · 0 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -84,6 +84,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [End-to-End Latency Decomposition](https://www.deep-ml.com/problems/413) | medium | 2026-10-10 | [solution](problems/0413-end-to-end-latency-decomposition) |
 | [Estimate KV Cache Size from Model Config](https://www.deep-ml.com/problems/418) | medium | 2026-10-09 | [solution](problems/0418-estimate-kv-cache-size-from-model-config) |
 | [Evaluate Translation Quality with METEOR Score](https://www.deep-ml.com/problems/110) | medium | 2026-09-12 | [solution](problems/0110-evaluate-translation-quality-with-meteor-score) |
+| [Greedy Streaming Decoder with KV Cache](https://www.deep-ml.com/problems/1055) | medium | 2026-10-15 | [solution](problems/1055-greedy-streaming-decoder-with-kv-cache) |
 | [Implement Batch Normalization for BCHW Input](https://www.deep-ml.com/problems/115) | medium | 2026-08-23 | [solution](problems/0115-implement-batch-normalization-for-bchw-input) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2026-07-30 | [solution](problems/0018-implement-k-fold-cross-validation) |
 | [Implementing ROUGE Score](https://www.deep-ml.com/problems/152) | medium | 2026-09-14 | [solution](problems/0152-implementing-rouge-score) |
