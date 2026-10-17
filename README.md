@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**95** solved · 81 problems · 0 labs · 14 math
+**97** solved · 83 problems · 0 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -81,6 +81,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-08-08 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Continuous Batching (In-Flight Batching) Simulator](https://www.deep-ml.com/problems/425) | medium | 2026-10-10 | [solution](problems/0425-continuous-batching-in-flight-batching-simulator) |
 | [Divide Dataset Based on Feature Threshold](https://www.deep-ml.com/problems/31) | medium | 2026-09-11 | [solution](problems/0031-divide-dataset-based-on-feature-threshold) |
+| [Draft-Target Speculative Decoding Simulation](https://www.deep-ml.com/problems/430) | medium | 2026-10-17 | [solution](problems/0430-draft-target-speculative-decoding-simulation) |
 | [End-to-End Latency Decomposition](https://www.deep-ml.com/problems/413) | medium | 2026-10-10 | [solution](problems/0413-end-to-end-latency-decomposition) |
 | [Estimate KV Cache Size from Model Config](https://www.deep-ml.com/problems/418) | medium | 2026-10-09 | [solution](problems/0418-estimate-kv-cache-size-from-model-config) |
 | [Evaluate Translation Quality with METEOR Score](https://www.deep-ml.com/problems/110) | medium | 2026-09-12 | [solution](problems/0110-evaluate-translation-quality-with-meteor-score) |
@@ -89,6 +90,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2026-07-30 | [solution](problems/0018-implement-k-fold-cross-validation) |
 | [Implementing ROUGE Score](https://www.deep-ml.com/problems/152) | medium | 2026-09-14 | [solution](problems/0152-implementing-rouge-score) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-07-28 | [solution](problems/0017-k-means-clustering) |
+| [KV Cache for Efficient Autoregressive Attention](https://www.deep-ml.com/problems/376) | medium | 2026-10-17 | [solution](problems/0376-kv-cache-for-efficient-autoregressive-attention) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-08-02 | [solution](problems/0007-matrix-transformation) |
 | [Simulate Markov Chain Transitions](https://www.deep-ml.com/problems/132) | medium | 2026-09-13 | [solution](problems/0132-simulate-markov-chain-transitions) |
 | [Temperature Sampling](https://www.deep-ml.com/problems/378) | medium | 2026-10-12 | [solution](problems/0378-temperature-sampling) |

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T14:52:50.493Z",
+  "generated_at": "2026-10-20T17:52:40.654Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1207,6 +1207,32 @@
       "last_pushed_at": "2026-10-15T17:21:12.083Z",
       "language": "python",
       "lines": 30
+    },
+    "problem:430": {
+      "kind": "problem",
+      "id": "430",
+      "title": "Draft-Target Speculative Decoding Simulation",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/430",
+      "path": "problems/0430-draft-target-speculative-decoding-simulation",
+      "first_solved_at": "2026-10-17T02:52:55.146Z",
+      "last_pushed_at": "2026-10-17T02:52:55.146Z",
+      "language": "python",
+      "lines": 49
+    },
+    "problem:376": {
+      "kind": "problem",
+      "id": "376",
+      "title": "KV Cache for Efficient Autoregressive Attention",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/376",
+      "path": "problems/0376-kv-cache-for-efficient-autoregressive-attention",
+      "first_solved_at": "2026-10-17T22:42:39.091Z",
+      "last_pushed_at": "2026-10-17T22:42:39.091Z",
+      "language": "python",
+      "lines": 34
     }
   }
 }
