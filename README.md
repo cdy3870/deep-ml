@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**98** solved · 84 problems · 0 labs · 14 math
+**99** solved · 85 problems · 0 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -90,6 +90,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Grouped Query Attention (GQA)](https://www.deep-ml.com/problems/391) | medium | 2026-10-18 | [solution](problems/0391-implement-grouped-query-attention-gqa) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2026-07-30 | [solution](problems/0018-implement-k-fold-cross-validation) |
 | [Implementing ROUGE Score](https://www.deep-ml.com/problems/152) | medium | 2026-09-14 | [solution](problems/0152-implementing-rouge-score) |
+| [INT8 KV-Cache Quantize and Dequantize](https://www.deep-ml.com/problems/1302) | medium | 2026-10-19 | [solution](problems/1302-int8-kv-cache-quantize-and-dequantize) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-07-28 | [solution](problems/0017-k-means-clustering) |
 | [KV Cache for Efficient Autoregressive Attention](https://www.deep-ml.com/problems/376) | medium | 2026-10-17 | [solution](problems/0376-kv-cache-for-efficient-autoregressive-attention) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-08-02 | [solution](problems/0007-matrix-transformation) |
